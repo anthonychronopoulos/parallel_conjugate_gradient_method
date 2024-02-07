@@ -22,6 +22,8 @@ The right-hand side b is created to have solution vector of all entries=1
 -----------FORTRAN 77 program :Author:  A. T. Chronopoulos ---------------
 
 FORTRAN77 programs: FORTRAN77sCG.f,dbla1.f
+
+
 ----------------end----------------- 
 
 RELATED PARALLEL CG Github web page

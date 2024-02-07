@@ -24,6 +24,7 @@ The right-hand side b is created to have solution vector of all entries=1
 FORTRAN77 programs: FORTRAN77sCG.f,dbla1.f
 ----------------end----------------- 
 
---------RELATED PARALLEL CG Github web page---------------
+RELATED PARALLEL CG Github web page
+
 https://github.com/EnigmaHuang/Krylov_Subspace_Methods/tree/master/CG
------------------------end-------------------
+

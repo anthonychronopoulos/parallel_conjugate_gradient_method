@@ -1,3 +1,4 @@
+
 REFERENCES (The parallel  (s-step) CG )  :
 1. A. T. Chronopoulos, A Class of Parallel Iterative Methods Implemented on Multiprocessors,  PhD. thesis,  University of Illinois, ProQuest Dissertations Publishing, 1987. 8711782. 
 2. A. T. Chronopoulos, C. W. Gear, s-step iterative methods for symmetric linear systems, 
@@ -27,6 +28,8 @@ FORTRAN77 programs: FORTRAN77sCG.f,dbla1.f
 ----------------end----------------- 
 
 RELATED PARALLEL CG Github web page
+
+Krylov_Subspace_Methods
 
 https://github.com/EnigmaHuang/Krylov_Subspace_Methods/tree/master/CG
 

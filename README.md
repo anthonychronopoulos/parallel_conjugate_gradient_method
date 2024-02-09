@@ -1,4 +1,5 @@
-Parallel Conjugate Gradient Method, Parallel Krylov Subspace Methods
+
+Parallel Conjugate Gradient Method 
 REFERENCES (The parallel  (s-step) CG )  :
 1. A. T. Chronopoulos, A Class of Parallel Iterative Methods Implemented on Multiprocessors,  PhD. thesis,  University of Illinois, ProQuest Dissertations Publishing, 1987. 8711782. 
 2. A. T. Chronopoulos, C. W. Gear, s-step iterative methods for symmetric linear systems, 

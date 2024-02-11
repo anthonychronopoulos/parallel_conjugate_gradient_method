@@ -30,9 +30,17 @@ FORTRAN77 programs: FORTRAN77sCG.f,dbla1.f
 
 ----------------end----------------- 
 
-RELATED PARALLEL CG Github web page
+
+RELATED PARALLEL CG Github projects
+==============================================
+Parallel Conjugate Gradient algorithm with MPI plus OpenMP
+===========================================================
+https://github.com/tgolubev/Conjugate_Gradient_with_MPI_and_OpenMP
+---------------------------------------------------------------------
 
 Krylov_Subspace_Methods
+=========================================================
 
 https://github.com/EnigmaHuang/Krylov_Subspace_Methods/tree/master/CG
+----------------------------------------------------------------------
 

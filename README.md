@@ -5,8 +5,8 @@ Parallel Conjugate Gradient (CG) (Programs Matlab and Fortran77 )
  Authors: A. T. Chronopoulos (antony.tc@gmail.com) and H. S. Kaveh (hojatshokri110@gmail.com )    
 =====================================
  s-step CG to solve A x=b 
-** Matlab programs: mmread, sCGalg21vmm2s, sPrCGalg21vmm2s, pcg , mainlibrarymatrix, mesh3e1.mtx **
-
+Matlab programs: mmread, sCGalg21vmm2s, sPrCGalg21vmm2s, pcg , mainlibrarymatrix, mesh3e1.mtx 
+---------------------------------------
  Matrix Data-files from sparse matrices collection (MM-format) 
  
  https://www.cise.ufl.edu/research/sparse/matrices/list_by_id.html              

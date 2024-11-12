@@ -1,8 +1,8 @@
 
-Parallel Conjugate Gradient Method 
+Parallel Conjugate Gradient Method (Programs Matlab and Fortran77 )
 =====================================
 
--------Matlab Programs’ Authors: A. T. Chronopoulos (antony.tc@gmail.com) and H. S. Kaveh (hojatshokri110@gmail.com )-----    
+ Authors: A. T. Chronopoulos (antony.tc@gmail.com) and H. S. Kaveh (hojatshokri110@gmail.com )    
 =====================================
  s-step CG to solve A x=b 
 ** Matlab programs: mmread, sCGalg21vmm2s, sPrCGalg21vmm2s, pcg , mainlibrarymatrix, mesh3e1.mtx **
@@ -15,7 +15,7 @@ Parallel Conjugate Gradient Method
 The right-hand side b is created to have solution vector of all entries=1  
 -------------end------------
 
------------FORTRAN 77 program :Author:  A. T. Chronopoulos ---------------
+-----------FORTRAN 77 programs :Author:  A. T. Chronopoulos ---------------
 
 FORTRAN77 programs: FORTRAN77sCG.f,dbla1.f
 

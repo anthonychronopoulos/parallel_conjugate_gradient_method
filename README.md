@@ -7,17 +7,18 @@ Parallel Conjugate Gradient (CG) (Programs Matlab and Fortran77 ),  s-step CG to
 Matlab programs: mmread, sCGalg21vmm2s, sPrCGalg21vmm2s, pcg , mainlibrarymatrix, mesh3e1.mtx 
 ---------------------------------------
  Matrix Data-files from sparse matrices collection (MM-format) 
- 
- https://www.cise.ufl.edu/research/sparse/matrices/list_by_id.html              
-   mesh3e1.mtx 
-   
+ ---------------------------------------
+ https://math.nist.gov/MatrixMarket/
+ ---------------------------------------
+ https://www.cise.ufl.edu/research/sparse/matrices/list_by_id.html 
+ ---------------------------------------
 The right-hand side b is created to have solution vector of all entries=1  
--------------end------------
+---------------------------------------
 
 FORTRAN 77 programs :Author:  A. T. Chronopoulos 
 --------------------------
 FORTRAN77 programs: FORTRAN77sCG.f,dbla1.f
-
+---------------------------------------
 
 REFERENCES:
 ==============================================

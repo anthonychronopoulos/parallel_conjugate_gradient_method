@@ -1,5 +1,5 @@
 
-Parallel Conjugate Gradient Method (Programs Matlab and Fortran77 )
+Parallel Conjugate Gradient (CG) (Programs Matlab and Fortran77 )
 =====================================
 
  Authors: A. T. Chronopoulos (antony.tc@gmail.com) and H. S. Kaveh (hojatshokri110@gmail.com )    

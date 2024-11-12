@@ -1,10 +1,9 @@
 
-Parallel Conjugate Gradient (CG) (Programs Matlab and Fortran77 )
+Parallel Conjugate Gradient (CG) (Programs Matlab and Fortran77 ),  s-step CG to solve A x=b
 =====================================
 
  Authors: A. T. Chronopoulos (antony.tc@gmail.com) and H. S. Kaveh (hojatshokri110@gmail.com )    
 =====================================
- s-step CG to solve A x=b 
 Matlab programs: mmread, sCGalg21vmm2s, sPrCGalg21vmm2s, pcg , mainlibrarymatrix, mesh3e1.mtx 
 ---------------------------------------
  Matrix Data-files from sparse matrices collection (MM-format) 
@@ -15,12 +14,12 @@ Matlab programs: mmread, sCGalg21vmm2s, sPrCGalg21vmm2s, pcg , mainlibrarymatrix
 The right-hand side b is created to have solution vector of all entries=1  
 -------------end------------
 
------------FORTRAN 77 programs :Author:  A. T. Chronopoulos ---------------
-
+FORTRAN 77 programs :Author:  A. T. Chronopoulos 
+--------------------------
 FORTRAN77 programs: FORTRAN77sCG.f,dbla1.f
 
-----------------end----------------- 
-REFERENCES (The parallel  (s-step) CG )  :
+
+REFERENCES:
 ==============================================
 1. A. T. Chronopoulos, A Class of Parallel Iterative Methods Implemented on Multiprocessors,  PhD. thesis,  University of Illinois, ProQuest Dissertations Publishing, 1987. 8711782. 
 2. A. T. Chronopoulos, C. W. Gear, s-step iterative methods for symmetric linear systems, 
@@ -29,7 +28,7 @@ https://doi.org/10.1016/0377-0427(89)90045-9
 3. A. T. Chronopoulos, C. W. Gear, On the efficient implementation of preconditioned s-step conjugate gradient methods on multiprocessors  with memory hierarchy, Parallel Computing, 11(1),  37-53, 1989.  
 https://doi.org/10.1016/0167-8191(89)90062-8       
 
-RELATED PARALLEL CG Github projects
+OTHER RELATED PARALLEL CG Github projects
 ==============================================
 Parallel Conjugate Gradient algorithm with MPI plus OpenMP
 ===========================================================
